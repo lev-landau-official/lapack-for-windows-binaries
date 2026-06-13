@@ -1,7 +1,7 @@
 
 # LAPACK for Windows binaries
 
-This repository provides pre-compiled static libraries of LAPACK for Windows. Built with "Intel Parallel Studio XE 2020 (v2020.0.4.912)" and "Visual Studio 2019 (v16.7.2)"
+This repository provides pre-compiled static libraries of LAPACK for Windows. Built with "Intel Parallel Studio XE 2020 (v2020.0.4)" and "Visual Studio 2019 (v16.7.2)"
 
 ## Available Binaries
 
