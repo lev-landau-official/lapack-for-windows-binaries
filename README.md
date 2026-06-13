@@ -22,4 +22,4 @@ suffix (e.g. `DGEMM_64` instead of `DGEMM`).
 
 ## Future Builds
 
-May provide additional configurations (such as MD/MDd or GCC/gfortran) if there's demand for it.
+May provide additional configurations (such as MD/MDd or GCC/gfortran etc.) if there's demand for it.
